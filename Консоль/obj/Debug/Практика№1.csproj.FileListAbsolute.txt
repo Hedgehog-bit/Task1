@@ -1,0 +1,6 @@
+C:\Users\egora\Desktop\Практика№1\bin\Debug\Практика№1.exe.config
+C:\Users\egora\Desktop\Практика№1\bin\Debug\Практика№1.exe
+C:\Users\egora\Desktop\Практика№1\bin\Debug\Практика№1.pdb
+C:\Users\egora\Desktop\Практика№1\obj\Debug\Практика№1.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Практика№1\obj\Debug\Практика№1.exe
+C:\Users\egora\Desktop\Практика№1\obj\Debug\Практика№1.pdb
