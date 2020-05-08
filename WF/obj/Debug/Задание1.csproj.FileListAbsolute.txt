@@ -1,0 +1,9 @@
+C:\Users\egora\Desktop\Задание1\bin\Debug\Задание1.exe.config
+C:\Users\egora\Desktop\Задание1\bin\Debug\Задание1.exe
+C:\Users\egora\Desktop\Задание1\bin\Debug\Задание1.pdb
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.csprojAssemblyReference.cache
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.Form1.resources
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.Properties.Resources.resources
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.csproj.GenerateResource.cache
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.exe
+C:\Users\egora\Desktop\Задание1\obj\Debug\Задание1.pdb
